@@ -94,15 +94,15 @@ upgrades_table = {
     }
 
 class_table = {
-    'Scout':                                            ('', True, "", {}),
-    'Soldier':                                          ('', True, "", {}),
-    'Pyro':                                             ('', True, "", {}),
-    'Demoman':                                          ('', True, "", {}),
-    'Heavy':                                            ('', True, "", {}),
-    'Engineer':                                         ('', True, "", {}),
-    'Medic':                                            ('', True, "", {}),
-    'Sniper':                                           ('', True, "", {}),
-    'Spy':                                              ('', True, "", {}),
+    'Scout':                                            ('Class', True, "", {}),
+    'Soldier':                                          ('Class', True, "", {}),
+    'Pyro':                                             ('Class', True, "", {}),
+    'Demoman':                                          ('Class', True, "", {}),
+    'Heavy':                                            ('Class', True, "", {}),
+    'Engineer':                                         ('Class', True, "", {}),
+    'Medic':                                            ('Class', True, "", {}),
+    'Sniper':                                           ('Class', True, "", {}),
+    'Spy':                                              ('Class', True, "", {}),
 }
 
 weapon_table = {
